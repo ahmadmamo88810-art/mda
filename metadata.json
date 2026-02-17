@@ -1,0 +1,8 @@
+
+{
+  "name": "Al-Mamo (المامو)",
+  "description": "A premium AI image generation platform powered by Gemini 3 Pro, enabling high-resolution (1K, 2K, 4K) creative visuals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
